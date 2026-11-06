@@ -1,0 +1,5 @@
+model,TN,FP,FN,TP,accuracy,precision,recall,f1
+blind_all_on_time,138,0,42,0,0.7667,0.0,0.0,0.0
+logistic_regression,134,4,12,30,0.9111,0.8824,0.7143,0.7895
+decision_tree_depth_8,131,7,16,26,0.8722,0.7879,0.619,0.6933
+random_forest_default,131,7,19,23,0.8556,0.7667,0.5476,0.6389

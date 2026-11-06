@@ -1,0 +1,49 @@
+shipment_id,hub_id,segment,delay_probability,flagged,action
+SHP50001,HUB01,Standard,0.01,0,No action
+SHP50002,HUB01,Standard,0.0,0,No action
+SHP50003,HUB02,Standard,0.0,0,No action
+SHP50004,HUB02,Standard,0.0,0,No action
+SHP50005,HUB03,Standard,0.29,0,No action
+SHP50006,HUB03,Standard,0.0,0,No action
+SHP50007,HUB04,Standard,0.0,0,No action
+SHP50008,HUB04,Standard,0.0,0,No action
+SHP50009,HUB05,Standard,0.01,0,No action
+SHP50010,HUB05,Standard,0.01,0,No action
+SHP50011,HUB06,Standard,0.0,0,No action
+SHP50012,HUB06,Standard,0.01,0,No action
+SHP50013,HUB07,Watch,0.01,0,No action
+SHP50014,HUB07,Watch,0.05,0,No action
+SHP50015,HUB08,Standard,0.0,0,No action
+SHP50016,HUB08,Standard,0.01,0,No action
+SHP50017,HUB09,Watch,0.11,0,No action
+SHP50018,HUB09,Watch,0.61,1,Proactive customer call
+SHP50019,HUB10,Watch,0.0,0,No action
+SHP50020,HUB10,Watch,0.01,0,No action
+SHP50021,HUB11,Watch,0.0,0,No action
+SHP50022,HUB11,Watch,0.0,0,No action
+SHP50023,HUB12,Watch,0.0,0,No action
+SHP50024,HUB12,Watch,0.01,0,No action
+SHP50025,HUB13,Escalate,0.4,1,Escalate to hub manager
+SHP50026,HUB13,Escalate,0.17,0,No action
+SHP50027,HUB14,Watch,0.22,0,No action
+SHP50028,HUB14,Watch,0.18,0,No action
+SHP50029,HUB15,Escalate,0.33,1,Escalate to hub manager
+SHP50030,HUB15,Escalate,0.46,1,Escalate to hub manager
+SHP50031,HUB16,Watch,0.0,0,No action
+SHP50032,HUB16,Watch,0.09,0,No action
+SHP50033,HUB17,Escalate,0.83,1,Escalate to hub manager
+SHP50034,HUB17,Escalate,0.13,0,No action
+SHP50035,HUB18,Escalate,0.34,1,Escalate to hub manager
+SHP50036,HUB18,Escalate,0.17,0,No action
+SHP50037,HUB19,Escalate,0.25,0,No action
+SHP50038,HUB19,Escalate,0.13,0,No action
+SHP50039,HUB20,Escalate,0.07,0,No action
+SHP50040,HUB20,Escalate,0.65,1,Escalate to hub manager
+SHP50041,HUB21,Escalate,0.76,1,Escalate to hub manager
+SHP50042,HUB21,Escalate,0.73,1,Escalate to hub manager
+SHP50043,HUB22,Watch,0.07,0,No action
+SHP50044,HUB22,Watch,0.29,0,No action
+SHP50045,HUB23,Escalate,0.22,0,No action
+SHP50046,HUB23,Escalate,0.09,0,No action
+SHP50047,HUB24,Escalate,0.36,1,Escalate to hub manager
+SHP50048,HUB24,Escalate,0.39,1,Escalate to hub manager

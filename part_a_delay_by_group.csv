@@ -1,0 +1,11 @@
+dimension,group,shipments,delayed,delay_rate,mean_hours
+service_type,Economy,315,27,0.0857,82.0933
+service_type,Express,243,119,0.4897,36.806
+service_type,Standard,642,132,0.2056,52.2571
+hub_tier,1,400,16,0.04,48.5668
+hub_tier,2,400,86,0.215,58.8192
+hub_tier,3,400,176,0.44,63.4947
+distance_band,0-200,271,7,0.0258,46.5358
+distance_band,201-400,566,78,0.1378,55.8293
+distance_band,401-600,273,116,0.4249,64.4629
+distance_band,601+,90,77,0.8556,72.7036
